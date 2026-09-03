@@ -32,3 +32,17 @@ Praticar o uso de repositórios compartilhados, commits,
 
 branches e GitHub.
 
+
+
+
+
+Tecnologias utilizadas
+
+
+
+\- Git
+
+\- GitHub
+
+\- Markdown
+
