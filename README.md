@@ -52,5 +52,19 @@ organização da equipe
 
 
 
-o projeto foi desenvolvido de forma colaborativa utilizando git e github
+o projeto foi desenvolvido de forma colaborativa utilizando git e GitHub
+
+
+
+aprendizados
+
+
+
+criação de repositórios
+
+clonagens
+
+commits
+
+push
 
