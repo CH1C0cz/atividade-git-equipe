@@ -96,5 +96,5 @@ o repositório entre os integrantes da equipe.
 
 
 
-
+aprendendo o primeiro push
 
