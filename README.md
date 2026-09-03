@@ -54,6 +54,20 @@ organização da equipe
 
 o projeto foi desenvolvido de forma colaborativa utilizando git e GitHub
 
+aprendizados
+
+
+
+criação de repositórios
+
+clonagens
+
+commits
+
+push
+
+
+
 
 
 Git
@@ -70,19 +84,17 @@ do projeto e registrar as alterações realizadas
 
 por cada integrante.
 
+
+
+git hub
+
 &#x20;
 
+O GitHub permite armazenar e compartilhar
+
+o repositório entre os integrantes da equipe.
 
 
-aprendizados
 
 
-
-criação de repositórios
-
-clonagens
-
-commits
-
-push
 
