@@ -56,6 +56,24 @@ o projeto foi desenvolvido de forma colaborativa utilizando git e GitHub
 
 
 
+Git
+
+&#x20;
+
+O Git é utilizado para controlar as versões
+
+
+
+do projeto e registrar as alterações realizadas
+
+
+
+por cada integrante.
+
+&#x20;
+
+
+
 aprendizados
 
 
